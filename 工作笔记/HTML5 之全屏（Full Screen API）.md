@@ -1,0 +1,1 @@
+具体内容查看这篇文章 [HTML5 之全屏（Full Screen API）](http://jartto.wang/2017/06/25/h5-fullscreen-api/)

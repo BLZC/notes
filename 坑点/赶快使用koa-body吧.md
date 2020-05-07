@@ -1,0 +1,4 @@
+- 今天遇到个问题，浪费了不少时间，简单记录一下
+- 原先在项目中使用的是koa-bodyParser 来解析post请求，但是后来由于要实现文件上传的功能就用了koa-body这个中间件，并且原来的koa-bodyParser也没有注释掉，这也为今天的问题埋下了炸弹
+- 今天跑项目的时候突然发现所有post请求 status都为canceled， why？？？
+- 然后查看是不是post请求错了？ 跨域失败？发现都不是，最后灵光一现！！！ koa-body可以解析post请求，那我还要koa-bodyParser干嘛？？？   然后把koa-bodyParser去掉，发现果然是这个问题！！！
