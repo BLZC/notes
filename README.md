@@ -21,7 +21,14 @@
   - [webpack  resolve alias](https://github.com/BLZC/notes/blob/master/%E5%B7%A5%E4%BD%9C%E7%AC%94%E8%AE%B0/webpack%20%20resolve%20alias.md)
 #### 面经
   - [2020 你懂WebAssembly了吗](https://github.com/BLZC/notes/blob/master/%E9%9D%A2%E7%BB%8F/2020%20%E4%BD%A0%E6%87%82WebAssembly%E4%BA%86%E5%90%97.md)
+  - [变量的提升中 函数的优先级高于变量](https://github.com/BLZC/notes/blob/master/%E9%9D%A2%E7%BB%8F/%E5%8F%98%E9%87%8F%E7%9A%84%E6%8F%90%E5%8D%87%E4%B8%AD%20%E5%87%BD%E6%95%B0%E7%9A%84%E4%BC%98%E5%85%88%E7%BA%A7%E9%AB%98%E4%BA%8E%E5%8F%98%E9%87%8F.md)
+  - [初探proxy](https://github.com/BLZC/notes/blob/master/%E9%9D%A2%E7%BB%8F/%E5%88%9D%E6%8E%A2proxy.md)
 #### 算法
+- [全排列的实现](https://github.com/BLZC/notes/blob/master/%E7%AE%97%E6%B3%95/%E5%85%A8%E6%8E%92%E5%88%97%E7%9A%84%E5%AE%9E%E7%8E%B0.md)
 #### 指令大全
+- [git指令大全](https://github.com/BLZC/notes/blob/master/%E6%8C%87%E4%BB%A4%E5%A4%A7%E5%85%A8/git%E6%8C%87%E4%BB%A4%E5%A4%A7%E5%85%A8.md)
+- [linux](https://github.com/BLZC/notes/blob/master/%E6%8C%87%E4%BB%A4%E5%A4%A7%E5%85%A8/linux.md)
+- [pm2](https://github.com/BLZC/notes/blob/master/%E6%8C%87%E4%BB%A4%E5%A4%A7%E5%85%A8/pm2.md)
 #### css
+- [巧用flex布局实现自适应](https://github.com/BLZC/notes/blob/master/css/%E5%B7%A7%E7%94%A8flex%E5%B8%83%E5%B1%80%E5%AE%9E%E7%8E%B0%E8%87%AA%E9%80%82%E5%BA%94.md)
 #### node
