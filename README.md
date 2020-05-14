@@ -20,9 +20,25 @@
   - [vue组件通信总结](https://github.com/BLZC/notes/blob/master/%E5%B7%A5%E4%BD%9C%E7%AC%94%E8%AE%B0/vue%E7%BB%84%E4%BB%B6%E9%80%9A%E4%BF%A1%E6%80%BB%E7%BB%93.md)
   - [webpack  resolve alias](https://github.com/BLZC/notes/blob/master/%E5%B7%A5%E4%BD%9C%E7%AC%94%E8%AE%B0/webpack%20%20resolve%20alias.md)
 #### 面经
+  - [如何介绍自己的项目](https://github.com/BLZC/notes/blob/master/%E9%9D%A2%E7%BB%8F/%E5%A6%82%E4%BD%95%E4%BB%8B%E7%BB%8D%E8%87%AA%E5%B7%B1%E7%9A%84%E9%A1%B9%E7%9B%AE.md)
   - [2020 你懂WebAssembly了吗](https://github.com/BLZC/notes/blob/master/%E9%9D%A2%E7%BB%8F/2020%20%E4%BD%A0%E6%87%82WebAssembly%E4%BA%86%E5%90%97.md)
   - [变量的提升中 函数的优先级高于变量](https://github.com/BLZC/notes/blob/master/%E9%9D%A2%E7%BB%8F/%E5%8F%98%E9%87%8F%E7%9A%84%E6%8F%90%E5%8D%87%E4%B8%AD%20%E5%87%BD%E6%95%B0%E7%9A%84%E4%BC%98%E5%85%88%E7%BA%A7%E9%AB%98%E4%BA%8E%E5%8F%98%E9%87%8F.md)
   - [初探proxy](https://github.com/BLZC/notes/blob/master/%E9%9D%A2%E7%BB%8F/%E5%88%9D%E6%8E%A2proxy.md)
+  - [防抖和节流](https://github.com/BLZC/notes/blob/master/%E9%9D%A2%E7%BB%8F/%E9%98%B2%E6%8A%96%E5%92%8C%E8%8A%82%E6%B5%81.md)
+  - [关于数组面试题总结](https://github.com/BLZC/notes/blob/master/%E9%9D%A2%E7%BB%8F/%E5%85%B3%E4%BA%8E%E6%95%B0%E7%BB%84%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md)
+  - [前端新名词](https://github.com/BLZC/notes/blob/master/%E9%9D%A2%E7%BB%8F/%E5%89%8D%E7%AB%AF%E6%96%B0%E5%90%8D%E8%AF%8D.md)
+  - [生成器和promise经典题目](https://github.com/BLZC/notes/blob/master/%E9%9D%A2%E7%BB%8F/%E7%94%9F%E6%88%90%E5%99%A8%E5%92%8Cpromise%E7%BB%8F%E5%85%B8%E9%A2%98%E7%9B%AE.md)
+  - [使用reduce实现对象中属性排序](https://github.com/BLZC/notes/blob/master/%E9%9D%A2%E7%BB%8F/%E4%BD%BF%E7%94%A8reduce%E5%AE%9E%E7%8E%B0%E5%AF%B9%E8%B1%A1%E4%B8%AD%E5%B1%9E%E6%80%A7%E6%8E%92%E5%BA%8F.md)
+  - [数组扁平化](https://github.com/BLZC/notes/blob/master/%E9%9D%A2%E7%BB%8F/%E6%95%B0%E7%BB%84%E6%89%81%E5%B9%B3%E5%8C%96.md)
+  - [小米社招前端面试凉经](https://github.com/BLZC/notes/blob/master/%E9%9D%A2%E7%BB%8F/%E5%B0%8F%E7%B1%B3%E7%A4%BE%E6%8B%9B%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E5%87%89%E7%BB%8F.md)
+  - [call和apply模拟实现](https://github.com/BLZC/notes/blob/master/%E9%9D%A2%E7%BB%8F/call%E5%92%8Capply%E6%A8%A1%E6%8B%9F%E5%AE%9E%E7%8E%B0.md)
+  - [CDN简述](https://github.com/BLZC/notes/blob/master/%E9%9D%A2%E7%BB%8F/CDN%E7%AE%80%E8%BF%B0.md)
+  - [import和require的区别](https://github.com/BLZC/notes/blob/master/%E9%9D%A2%E7%BB%8F/import%E5%92%8Crequire%E7%9A%84%E5%8C%BA%E5%88%AB.md)
+  - [JS中的垃圾回收机制有什么坏处](https://github.com/BLZC/notes/blob/master/%E9%9D%A2%E7%BB%8F/JS%E4%B8%AD%E7%9A%84%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%BA%E5%88%B6%E6%9C%89%E4%BB%80%E4%B9%88%E5%9D%8F%E5%A4%84.md)
+  - [new过程](https://github.com/BLZC/notes/blob/master/%E9%9D%A2%E7%BB%8F/new%E8%BF%87%E7%A8%8B.md)
+  - [promise](https://github.com/BLZC/notes/blob/master/%E9%9D%A2%E7%BB%8F/promise.md)
+  - [pwd判定标准](https://github.com/BLZC/notes/blob/master/%E9%9D%A2%E7%BB%8F/pwd%E5%88%A4%E5%AE%9A%E6%A0%87%E5%87%86.md)
+  - [rem和em的区别](https://github.com/BLZC/notes/blob/master/%E9%9D%A2%E7%BB%8F/rem%E5%92%8Cem%E7%9A%84%E5%8C%BA%E5%88%AB.md)
 #### 算法
 - [全排列的实现](https://github.com/BLZC/notes/blob/master/%E7%AE%97%E6%B3%95/%E5%85%A8%E6%8E%92%E5%88%97%E7%9A%84%E5%AE%9E%E7%8E%B0.md)
 #### 指令大全
@@ -32,3 +48,7 @@
 #### css
 - [巧用flex布局实现自适应](https://github.com/BLZC/notes/blob/master/css/%E5%B7%A7%E7%94%A8flex%E5%B8%83%E5%B1%80%E5%AE%9E%E7%8E%B0%E8%87%AA%E9%80%82%E5%BA%94.md)
 #### node
+- [使用vue+koa实现将md转换为pdf并下载](https://github.com/BLZC/notes/blob/master/node/%E4%BD%BF%E7%94%A8vue%2Bkoa%E5%AE%9E%E7%8E%B0%E5%B0%86md%E8%BD%AC%E6%8D%A2%E4%B8%BApdf%E5%B9%B6%E4%B8%8B%E8%BD%BD.md)
+- [node+vue 数据加密篇](https://github.com/BLZC/notes/blob/master/node/node%2Bvue%20%E6%95%B0%E6%8D%AE%E5%8A%A0%E5%AF%86%E7%AF%87.md)
+- [node实现pdf转图片](https://github.com/BLZC/notes/blob/master/node/node%E5%AE%9E%E7%8E%B0pdf%E8%BD%AC%E5%9B%BE%E7%89%87.md)
+- [node文件路径简记](https://github.com/BLZC/notes/blob/master/node/node%E6%96%87%E4%BB%B6%E8%B7%AF%E5%BE%84%E7%AE%80%E8%AE%B0.md)
