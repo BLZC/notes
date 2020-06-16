@@ -41,6 +41,7 @@
   - [rem和em的区别](https://github.com/BLZC/notes/blob/master/%E9%9D%A2%E7%BB%8F/rem%E5%92%8Cem%E7%9A%84%E5%8C%BA%E5%88%AB.md)
 #### 算法
 - [全排列的实现](https://github.com/BLZC/notes/blob/master/%E7%AE%97%E6%B3%95/%E5%85%A8%E6%8E%92%E5%88%97%E7%9A%84%E5%AE%9E%E7%8E%B0.md)
+- [排列组合](https://github.com/BLZC/notes/blob/master/%E7%AE%97%E6%B3%95/%E6%8E%92%E5%88%97%E7%BB%84%E5%90%88.md)
 #### 指令大全
 - [git指令大全](https://github.com/BLZC/notes/blob/master/%E6%8C%87%E4%BB%A4%E5%A4%A7%E5%85%A8/git%E6%8C%87%E4%BB%A4%E5%A4%A7%E5%85%A8.md)
 - [linux](https://github.com/BLZC/notes/blob/master/%E6%8C%87%E4%BB%A4%E5%A4%A7%E5%85%A8/linux.md)
