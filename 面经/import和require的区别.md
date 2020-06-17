@@ -5,8 +5,8 @@
 - 目前常用的模块化工具有适用于服务端的CommonJs, 适用于浏览器端的AMD,以及Es6新增的import
 
 2. 区别
-#### 目前常用的就是CommonJs和import这两种，下面主要介绍下他们之间有啥不同之处
-- import编译时就能确定模块的依赖关系。CommonJS，都只能在运行时确定这些东西。即：import是获取的模块的引用，CommongJS是获取的模块的拷贝，或许你没有理解这句话，下面上代码：
+#### 目前常用的就是CommonJs(cjs)和import(esm)这两种，下面主要介绍下他们之间有啥不同之处
+- esm编译时就能确定模块的依赖关系。cjs都只能在运行时确定这些东西。即：esm是获取的模块的引用，cjs是获取的模块的拷贝，或许你没有理解这句话，下面上代码：
 ```
  // module.js
  export var a = 1
@@ -22,7 +22,7 @@ console.log(a)
 1
 2
 ```
-- a.js使用import调用module中的变量，当module中的变量改变时，a.js中的引用数据会同步更新，这是CommonJS所无法实现的
+- a.js使用esm调用module中的变量，当module中的变量改变时，a.js中的引用数据会同步更新，这是cjs所无法实现的
 
 
 
