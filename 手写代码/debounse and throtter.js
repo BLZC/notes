@@ -1,5 +1,4 @@
-#### 防抖
-```
+
 /**
  * 
  * @param {Function} fn 执行函数 
@@ -20,9 +19,7 @@ function debounce (fn, wait, immediate) {
     }, wait)
   }
 }
-```
-#### 节流
-```
+
 /**
  * 
  * @param {Function} fn 执行函数 
@@ -34,16 +31,15 @@ function throttle (fn, wait, immediate) {
   return function () {
     let args = arguments, context = this
     if(runNow) {
-      fn.apply(context, args)
+      fn.call(context, args)
       runNow =  false
     }
 
     if(!timer) {
       timer = setTimeout(() => {
-        fn.apply(context, args)
+        fn.call(context, args)
         clearTimeout(timer)
       }, wait)
     }
   }
 } 
-```
