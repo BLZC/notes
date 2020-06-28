@@ -24,7 +24,7 @@
   - [2020 你懂WebAssembly了吗](https://github.com/BLZC/notes/blob/master/%E9%9D%A2%E7%BB%8F/2020%20%E4%BD%A0%E6%87%82WebAssembly%E4%BA%86%E5%90%97.md)
   - [变量的提升中 函数的优先级高于变量](https://github.com/BLZC/notes/blob/master/%E9%9D%A2%E7%BB%8F/%E5%8F%98%E9%87%8F%E7%9A%84%E6%8F%90%E5%8D%87%E4%B8%AD%20%E5%87%BD%E6%95%B0%E7%9A%84%E4%BC%98%E5%85%88%E7%BA%A7%E9%AB%98%E4%BA%8E%E5%8F%98%E9%87%8F.md)
   - [初探proxy](https://github.com/BLZC/notes/blob/master/%E9%9D%A2%E7%BB%8F/%E5%88%9D%E6%8E%A2proxy.md)
-  - [防抖和节流](https://github.com/BLZC/notes/blob/master/%E9%9D%A2%E7%BB%8F/%E9%98%B2%E6%8A%96%E5%92%8C%E8%8A%82%E6%B5%81.md)
+
   - [关于数组面试题总结](https://github.com/BLZC/notes/blob/master/%E9%9D%A2%E7%BB%8F/%E5%85%B3%E4%BA%8E%E6%95%B0%E7%BB%84%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md)
   - [前端新名词](https://github.com/BLZC/notes/blob/master/%E9%9D%A2%E7%BB%8F/%E5%89%8D%E7%AB%AF%E6%96%B0%E5%90%8D%E8%AF%8D.md)
   - [生成器和promise经典题目](https://github.com/BLZC/notes/blob/master/%E9%9D%A2%E7%BB%8F/%E7%94%9F%E6%88%90%E5%99%A8%E5%92%8Cpromise%E7%BB%8F%E5%85%B8%E9%A2%98%E7%9B%AE.md)
@@ -47,7 +47,7 @@
 - [linux](https://github.com/BLZC/notes/blob/master/%E6%8C%87%E4%BB%A4%E5%A4%A7%E5%85%A8/linux.md)
 - [pm2](https://github.com/BLZC/notes/blob/master/%E6%8C%87%E4%BB%A4%E5%A4%A7%E5%85%A8/pm2.md)
 #### css
-- [巧用flex布局实现自适应](https://github.com/BLZC/notes/blob/master/css/%E5%B7%A7%E7%94%A8flex%E5%B8%83%E5%B1%80%E5%AE%9E%E7%8E%B0%E8%87%AA%E9%80%82%E5%BA%94.md)
+
 #### node
 - [使用vue+koa实现将md转换为pdf并下载](https://github.com/BLZC/notes/blob/master/node/%E4%BD%BF%E7%94%A8vue%2Bkoa%E5%AE%9E%E7%8E%B0%E5%B0%86md%E8%BD%AC%E6%8D%A2%E4%B8%BApdf%E5%B9%B6%E4%B8%8B%E8%BD%BD.md)
 - [node+vue 数据加密篇](https://github.com/BLZC/notes/blob/master/node/node%2Bvue%20%E6%95%B0%E6%8D%AE%E5%8A%A0%E5%AF%86%E7%AF%87.md)
