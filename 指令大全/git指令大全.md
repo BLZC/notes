@@ -44,6 +44,7 @@
 - git blame [FileName]  显示指定文件是什么人在什么时间修改的信息
 
 ## branch系列
+- git push origin --delete XX 删除远程分支
 - git branch [Branch]  新建一个分支, 但不切换
 - git checkout -b [Branch]  新建一个分支, 并切换到该分支
 - git checkout [BranchName]  切换分支
@@ -51,7 +52,7 @@
 - git branch --set-upstream [Branch] [RemoteBranch]  建立追踪关系, 在现有分支与指定的远程分支之间
 - git branch --track [Branch] [RemoteBranch]   新建一个分支, 与指定的远程分支建立追踪关系
 - git branch -a   列出所有分支
-- git branch -d [Branch]   强制删除分支
+- git branch -d [Branch]   强制删除本地分支
 - git branch -m [OldName] [NewName]  本地分支重命名
 - git branch -r  列出所有远程分支
 - git branch 查看本地所有分支

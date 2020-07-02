@@ -17,7 +17,7 @@
  }
 
  Children5.prototype = Object.create(Parent5.prototype)
- Children5.prototype.constructor = Children
+ Children5.prototype.constructor = Children5
 
 
 /**
